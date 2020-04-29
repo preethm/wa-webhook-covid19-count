@@ -19,7 +19,7 @@ This will demonstrate how to have your [Watson Assistant](https://www.ibm.com/cl
 3. Click **Add authorization**, paste in API Key
 4. Create a Dialog node that recognizes this intent
 5. Click on **Dialog** settings, enable Webhook
-6. Add parameter `stateCode` to call out to webhook (this can either be collected by your Assistant or hard coded in). Acceptable parameters include "NY", "CT", etc. To find a full list, visit https://covidtracking.com/api
+6. Add parameter key `stateCode` to call out to webhook (this can either be collected by your Assistant or hard coded in). Acceptable values include "NY", "CT", etc. To find a full list, visit https://covidtracking.com/api
 
 ![](https://github.com/preethm/wa-webhook-covid19-count/blob/master/screenshot_870.png)
 
