@@ -32,5 +32,5 @@ Navigate to the right side of Watson Assistant, click on `Try it`, type in "how 
 
 ![](https://github.com/preethm/wa-webhook-covid19-count/blob/master/screenshot_869.png =250x250)
 
-<a href="url"><img src="https://github.com/preethm/wa-webhook-covid19-count/blob/master/screenshot_869.png" align="left" height="25%" width="25%" ></a>
+<a href="url"><img src="https://github.com/preethm/wa-webhook-covid19-count/blob/master/screenshot_869.png" align="left" height="40%" width="40%" ></a>
 
