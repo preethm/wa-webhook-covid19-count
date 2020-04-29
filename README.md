@@ -31,3 +31,6 @@ This will demonstrate how to have your [Watson Assistant](https://www.ibm.com/cl
 Navigate to the right side of Watson Assistant, click on `Try it`, type in "how many cases of COVID-19 are there in New York?" and make sure you get the appropriate response back. You can double check this response with information directly from covidtracking.com to ensure it is accurate.
 
 ![](https://github.com/preethm/wa-webhook-covid19-count/blob/master/screenshot_869.png =250x250)
+
+<a href="url"><img src="https://github.com/preethm/wa-webhook-covid19-count/blob/master/screenshot_869.png" align="left" height="48" width="48" ></a>
+
